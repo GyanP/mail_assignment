@@ -41,7 +41,11 @@
     POSTGRES_HOST=< host name for postgres >
     POSTGRES_PORT=< postgres port >
     ```
-8. You can now run the backend server by executing the following command:
+8. For apply migrations run following command:
+   ```
+   python manamge.py migrate
+   ```
+9. You can now run the backend server by executing the following command:
     ```
     python manage.py runserver
     ```

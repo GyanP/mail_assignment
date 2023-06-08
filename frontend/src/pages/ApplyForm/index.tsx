@@ -22,9 +22,9 @@ const ApplyForm = () => {
     });
 
     const resetForm = () => {
-        setFullName("");
-        setEmail("");
-        setMessage("");
+        // setFullName("");
+        // setEmail("");
+        // setMessage("");
     }
 
     const handleChange = (target: any) => {
