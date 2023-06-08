@@ -53,7 +53,7 @@
 * node >= 14.21.3
 
 ## Install Dependencies
-1. Navigate to the frontend directory:
+1. Navigate to the frontend directory open new terminal:
    ```
    cd frontend
    ```
