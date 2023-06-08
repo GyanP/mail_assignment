@@ -1,0 +1,12 @@
+.wrapper{
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 !important;
+}
+.innerWrapper{
+    background-color: rgb(218, 217, 217);
+    border-radius: 10px;
+    padding: 10px;
+}
